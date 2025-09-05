@@ -4,3 +4,4 @@
  - basic folder structuring
  - routing -> client side routing (endpoint)
  - app router 
+ - Image rendering 
